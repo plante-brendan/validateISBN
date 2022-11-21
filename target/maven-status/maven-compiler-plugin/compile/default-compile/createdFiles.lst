@@ -1,0 +1,3 @@
+validate\isbn\validateISBN\controller\ValidateISBNController.class
+validate\isbn\validateISBN\ValidateIsbnApplication.class
+validate\isbn\validateISBN\service\ValidateISBNService.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: validate.isbn.validateISBN.ValidateIsbnApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.497 s - in validate.isbn.validateISBN.ValidateIsbnApplicationTests
